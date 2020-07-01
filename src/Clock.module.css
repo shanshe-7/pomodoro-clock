@@ -1,0 +1,40 @@
+.typo{
+ 
+    display: flex;
+    justify-content: center;
+    
+}
+
+.session {
+    color: red;
+    border: 5px solid #0091ea;
+    border-radius: 5%;
+    display: inline-block;
+    padding: 2%;
+    margin-top: 2em;
+    position: relative;
+    font-family: 'Major Mono Display', 'Ubuntu Mono', 'Calligraffitti', 'MuseoModerno', 'Roboto', Arial, Helvetica, sans-serif;
+    /* font-size: 6em; */
+}
+.changeColor {
+    color: red;
+}
+
+.icon{
+    color: #dd2c00;
+}
+.icon:hover{
+    color: #76ff03
+}
+
+.sessionIcons {
+    color: #dd2c00;
+    font-size: 3rem;
+    margin-top: 0.3em;
+}
+
+.sessionIcons:hover{
+    color: #76ff03
+}
+
+
